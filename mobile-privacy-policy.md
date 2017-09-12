@@ -1,9 +1,13 @@
-# MOBILE PRIVACY POLICY (AD-SPONSORED APPS)
+# MOBILE PRIVACY POLICY
 ## PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS
 This privacy policy governs your use of the software application XploRail (“Application”) for
 mobile devices that was created by Prasarana Malaysia Berhad. The Application is a game check
 point reader for ExploRail games.
+
+
 What information does the Application obtain and how is it used?
+
+
 User Provided Information
 The Application obtains the information you provide when you download and register the
 Application. Registration with us is optional. However, please keep in mind that you may not be
